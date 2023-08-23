@@ -10,6 +10,20 @@ body {
     margin-top: 20px;
 }
 
+h2 {
+    text-align: center;
+    color: #809b0b;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 60px;
+    margin-bottom: 20px;
+    transition: 0.5s;
+}
+
+h2:hover {
+    color: #c0392b;
+}
+
 .box {
     background: #1abc9c;
     width: 500px;
